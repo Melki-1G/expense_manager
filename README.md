@@ -44,34 +44,5 @@ React Router
 Lucide React
 
 📁 Structure du projet
-expense_manager
-│
-├── backend/
-│   ├── expense_manager_backend/
-│   │   ├── settings.py
-│   │   ├── urls.py
-│   │   └── wsgi.py
-│   │
-│   ├── expenses/
-│   │   ├── models.py
-│   │   ├── views.py
-│   │   ├── serializers.py
-│   │   ├── urls.py
-│   │   └── admin.py
-│   │
-│   ├── manage.py
-│   └── requirements.txt
-│
-├── frontend/
-│   └── expense-manager-frontend/
-│       ├── src/
-│       │   ├── components/
-│       │   ├── pages/
-│       │   ├── contexts/
-│       │   ├── lib/
-│       │   └── App.jsx
-│       │
-│       ├── public/
-│       └── package.json
-│
-└── README.md
+<img width="353" height="630" alt="Structure du projet" src="https://github.com/user-attachments/assets/8627c927-fa94-4152-a9ab-36ee70301041" />
+
