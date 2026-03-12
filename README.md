@@ -44,5 +44,6 @@ React Router
 Lucide React
 
 📁 Structure du projet
+
 <img width="353" height="630" alt="Structure du projet" src="https://github.com/user-attachments/assets/8627c927-fa94-4152-a9ab-36ee70301041" />
 
