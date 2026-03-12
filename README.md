@@ -27,20 +27,31 @@ L'application permet aux utilisateurs de :
 Backend
 
 Python 3.11
+
 Django 5.2
+
 Django REST Framework
+
 SQLite (facilement remplaçable par PostgreSQL)
+
 Django CORS Headers
 
 Frontend
 
 React 19
+
 Vite
+
 Tailwind CSS
+
 Shadcn/UI
+
 Recharts
+
 Axios
+
 React Router
+
 Lucide React
 
 📁 Structure du projet
